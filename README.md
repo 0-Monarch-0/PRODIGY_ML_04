@@ -1,4 +1,4 @@
-# hand-gesture-recognition-using-mediapipe
+# hand-gesture-recognition-integrated to perfom actions on basic laptop functions
 Estimate hand pose using MediaPipe (Python version).<br> This is a sample 
 program that recognizes hand signs and finger gestures with a simple MLP using the detected key points.
 
